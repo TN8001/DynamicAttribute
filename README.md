@@ -1,5 +1,5 @@
 ﻿# PropertyGrid HideProperty Example
-![アプリスクリーンショット](https://github.com/TN8001/DynamicAttribute/blob/master/AppImage.png)
+![アプリスクリーンショット](AppImage.png)
 ## 概要
 PropertyGridに既存クラスを割り当てた場合 BrowsableAttributeを付けられないので実行時にどうにかする例
 
